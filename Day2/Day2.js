@@ -12,3 +12,18 @@ function showMessage(message) {
 }
 
 showMessage("Hi anh em F8!");
+
+function sum(a, b) {
+    return a + b;
+}
+
+var result = sum(20,10);
+console.log(result);
+
+function triple(x){
+    return 3*x;
+}
+
+var result = triple(3);
+console.log(result);
+
